@@ -12,11 +12,14 @@ If the application is not starting properly, try downloading the appropriate Jav
 
 2. run `java -jar --module-path lib --add-modules=javafx.controls,javafx.fxml OthelloAI.jar`
 
+This is what the board looks like at the start of each game:
 
 ![This is what the game board looks like](https://github.com/fynnwi/Othello-GUI/assets/57621903/2d7249e8-349f-4d61-9dc9-3b5851abaaff)
 
-Looking tight for solar...
-![Screenshot from 2024-01-02 11-49-59](https://github.com/fynnwi/Othello-GUI/assets/57621903/42ce7de4-b117-4555-bd79-9338ee4c162d)
+At the moment, Coal has the upper hand...
 
-But in the end, Solar wins, even though Coal secured all the corners
-![Screenshot from 2024-01-02 11-50-24](https://github.com/fynnwi/Othello-GUI/assets/57621903/21ab2449-7707-4a18-9fb0-59aa7157c8bc)
+![Coal has the upper hand](https://github.com/fynnwi/Othello-GUI/assets/57621903/42ce7de4-b117-4555-bd79-9338ee4c162d)
+
+But in the end, Solar wins, even though Coal secured all the corners:
+
+![Solar wins](https://github.com/fynnwi/Othello-GUI/assets/57621903/21ab2449-7707-4a18-9fb0-59aa7157c8bc)
